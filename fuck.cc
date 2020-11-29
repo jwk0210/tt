@@ -4,4 +4,6 @@ good
 hi
 
 hello
+<<<<<<< HEAD
 1
+2
